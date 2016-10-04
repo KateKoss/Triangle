@@ -9,6 +9,7 @@ namespace Triangle
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
